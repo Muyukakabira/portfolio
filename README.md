@@ -47,7 +47,7 @@ This portfolio website serves as:
 7. **Contact**: Communication form
 
 ## 🌐 Live Demo
-[View Portfolio](https://yourusername.github.io) *Replace with your actual deployment URL*
+[View Portfolio](https://muyukakabira.github.io/portfolio/)
 
 ## 🛠️ Installation & Usage
 To run locally:
